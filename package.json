@@ -5,8 +5,8 @@
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
-    "ajv": "^8.17.1",
-    "ajv-keywords": "^5.1.0",
+    "ajv": "^7.2.4",
+    "ajv-keywords": "^4.0.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-scripts": "^5.0.0",
